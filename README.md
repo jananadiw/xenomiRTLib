@@ -13,5 +13,7 @@ Wait and Signal Synchronization, Multi-task Wait and Signal Synchronization, Cre
 ### mutex
 Recursive Access a Shared Resource, Multiple tasks accessing equivalent shared Resources, Multiple tasks accessing equivalent shared resources using mutexes
 
+Ref: Real Time Concepts for Embedded Systems 
+     http://cneeraj.weebly.com/uploads/9/6/4/0/9640805/real-time_concepts_for_embedded_systems_by_qing_li.pdf
 
 
